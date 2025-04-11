@@ -1,4 +1,4 @@
-A variant of FORTRAN code QSSP, but for 
+A variant of FORTRAN code QSSP, but for calculating co- and post-seismic quasi-static deformation of a self-gravitating, spherically symmetric, isotropic and viscoelastic earth. 
 
 For Windows user, the executable file is provided under folder "WindowsEXE". Linux user may compile the source codes with "gfortran" via a single command like, e.g.,
 
